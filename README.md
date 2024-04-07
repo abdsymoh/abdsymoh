@@ -1,4 +1,5 @@
 ### Hi there 👋
+## I'm Abdullah Sayed | a Frontend Developer 👨🏻‍💻
 
 <!--
 **abdsymoh/abdsymoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
